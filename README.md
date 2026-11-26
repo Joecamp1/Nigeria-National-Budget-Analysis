@@ -47,10 +47,10 @@ Key fields: MDA, Function (Core / Non-core), Capital, Overhead, Personnel, Total
 - MDA lists and tables for drilling into individual agencies
 
 ## 🔗 Preview
-- [National budget visual](https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125749.png)
-- [Presidency visual](https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125800.png)
-- [Ministry of Defence visual](https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125815.png)
-- [Ministry of Finance visual](https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125823.png)
+- [National budget visual](https://github.com/Joecamp1/Budget-Analysis/blob/main/National%20Budget%20Visual%20Overview.png)
+- [Presidency visual](https://github.com/Joecamp1/Budget-Analysis/blob/main/Presidency%20Visual.png)
+- [Ministry of Defence visual](https://github.com/Joecamp1/Budget-Analysis/blob/main/Ministry%20of%20Defence.png)
+- [Ministry of Finance visual](https://github.com/Joecamp1/Budget-Analysis/blob/main/Ministry%20of%20Finance.png)
 
 > Click the links above to see the images of the final dashboards.
 
